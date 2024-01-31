@@ -1,0 +1,15 @@
+{
+  "name": "testproblems",
+  "version": "1.0.0",
+  "description": "cardriils",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cardrill"
+  },
+  "author": "\"subbu\"",
+  "license": "ISC"
+}
